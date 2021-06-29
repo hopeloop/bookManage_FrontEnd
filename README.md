@@ -1,5 +1,6 @@
 # 前后端分离的图书管理系统
 前端技术栈：Vue+ElementUI
+
 后端代码：https://github.com/hopeloop/bookManage_BackEnd
 
 #### 实现了分页显示，增删改功能
