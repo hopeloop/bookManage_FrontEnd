@@ -21,11 +21,7 @@ const routes = [
           component:()=>import("../views/AddBook.vue")
         }
         ]
-  },
-    {
-        path: "/update",
-        component:()=>import("../views/Update")
-    }
+  }
 ]
 
 const router = new VueRouter({
